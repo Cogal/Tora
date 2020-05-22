@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <script src="connect.js"></script>
         <link rel="stylesheet" href="style.css"> 
         <title>Tora</title>
         <meta name="Toras est une plateform de streaming, vous pouvez y retrouver des
         videos ou des lives ainsi que des films, c'est une plateforme 100% libre. "> 
     </head>
     <body >
-        <script src="connect.js"></script>
+        <script>
+        connect();
+        </script>
+
+        <div class="headbar">
+            <div id="infoPseudo"></div>
+            <div id="infoMpd"></div>
+        </div>
 
     </body>
 </html>

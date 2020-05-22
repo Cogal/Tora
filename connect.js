@@ -1,8 +1,13 @@
+
+function connect(){
+
+var mdpSd;
+var pseudoSd;
 var mpd;
 var pseudo;
 var valeur = 0;
 
-// boucle 
+// début boucle 
 while (valeur < 1){
 
 // demande des identifiants
@@ -12,7 +17,15 @@ if (mdp === "admin" && pseudo ==="admin"){
     valeur++;
 }
 
+}; 
+// fin boucle
+
+
+
+
+
 };
+
 
 
 
