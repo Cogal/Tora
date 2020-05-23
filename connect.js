@@ -1,5 +1,5 @@
 
-function connect(){
+
 
 var mdpSd;
 var pseudoSd;
@@ -24,7 +24,7 @@ if (mdp === "admin" && pseudo ==="admin"){
 
 
 
-};
+
 
 
 

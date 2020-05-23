@@ -8,3 +8,11 @@ body{
     margin: auto;
     height: 6em;
 }
+
+#infoPseudo {
+    color: blue;
+    size: 1em;
+    margin-left: 1em;
+    margin-top: 1em;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;  
+}
